@@ -1,0 +1,2 @@
+# quizThree
+Triangle class.
